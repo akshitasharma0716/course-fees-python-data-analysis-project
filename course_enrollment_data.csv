@@ -1,0 +1,11 @@
+enrollment_id,student_name,course_name,instructor_name,enrollment_date,completion_status,course_fee,grade
+101,Ananya Sharma,Data Science Basics,Dr. Meera Rao,2023-01-15,Completed,1200.0,A
+102,Ravi Verma,Python for Beginners,Prof. Raj Malhotra,2023-02-10,Ongoing,800.0,
+103,Priya Singh,Machine Learning,Dr. Tanvi Desai,2023-03-05,Completed,1500.0,B
+104,Karan Mehta,Web Development,Ms. Neha Joshi,2023-04-01,Completed,1000.0,A
+105,Sanya Kapoor,Cybersecurity Essentials,Dr. Aditi Menon,2023-04-18,Dropped,1100.0,
+106,Amit Kumar,Advanced SQL Queries,Prof. Arjun Das,2023-05-12,Ongoing,950.0,
+107,Divya Pandey,Cloud Computing,Mr. Rakesh Patil,2023-06-07,Completed,1300.0,B
+108,Rahul Joshi,AI Fundamentals,Dr. Sneha Nair,2023-06-21,Completed,1400.0,A
+109,Mehul Shah,Excel for Data Analysis,Ms. Ritu Aggarwal,2023-07-05,Ongoing,700.0,
+110,Isha Chauhan,DevOps Basics,Mr. Shubham Rane,2023-07-22,Dropped,900.0,
